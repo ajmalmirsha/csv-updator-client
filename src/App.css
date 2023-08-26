@@ -1,0 +1,26 @@
+.nav-bar {
+    background-color: rgb(27, 55, 116);
+    border-radius: 5px;
+}
+
+.active-dot{
+  width: 5px;
+  height: 5px;
+  background-color: greenyellow;
+}
+
+#download-icon {
+    width: 30px;
+}
+
+#empty-img {
+  width: 20%;
+}
+
+.loading-gif {
+  width: 200px;
+}
+
+.button-disabled {
+  cursor: not-allowed !important ;
+}
